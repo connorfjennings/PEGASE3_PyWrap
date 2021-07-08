@@ -1,0 +1,12 @@
+"P\'egase.3.0.1" !# `version_id`.
+"2019-02-21T18:05:15Z" !# `version_date`.
+!# Code "SSPs" executed at 2021-06-30T00:47:18-07:00.
+"BaSeL2.2_Rauch_set1.txt" !# Set of stellar spectra.
+!# Files of SSPs:
+"Chabrier_tracks_Z0.0001+.txt"
+"Chabrier_tracks_Z0.0004+.txt"
+"Chabrier_tracks_Z0.004+.txt"
+"Chabrier_tracks_Z0.008+.txt"
+"Chabrier_tracks_Z0.02+.txt"
+"Chabrier_tracks_Z0.05+.txt"
+"Chabrier_tracks_Z0.1+.txt"
